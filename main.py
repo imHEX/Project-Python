@@ -55,3 +55,10 @@
 # num = [10,20,[300,400,[5000,6000],500],30,40]
 # num[2][2].append(7000)
 # print(num)
+
+# num = input("enter your number:")
+# fa = "۰۱۲۳۴۵۶۷۸۹"
+# result = ""
+# for i in num:
+#     result += fa[int(i)]
+# print(result)
