@@ -61,6 +61,7 @@
 # result = ""
 # for i in num:
 #     result += fa[int(i)]
+<<<<<<< HEAD
 # print(result)
 
 #1)
@@ -134,3 +135,6 @@
 # numlist.reverse()
 # for i in numlist:
 #     print(i, end="")
+=======
+# print(result)
+>>>>>>> 83e3eb66f9d3a308dece1b3b874499d934f3e5d6
